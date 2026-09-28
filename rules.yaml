@@ -1,0 +1,14 @@
+# Client's rule set — edit freely, no code changes needed.
+# Empty allowlist = any pair is allowed.
+
+min_confidence: 0.6
+max_position_usdt: 100.0
+max_open_positions: 3
+daily_loss_limit_usdt: 50.0
+require_stop: true
+
+# example:
+# allowed_pairs:
+#   - BTC/USDT
+#   - ETH/USDT
+allowed_pairs: []

@@ -1,0 +1,1 @@
+"""Signal-to-trade bot: Discord -> LLM -> rules -> Alpaca/IBKR."""
